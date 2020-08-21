@@ -1,0 +1,3 @@
+weights_512_22.april.hdf5 mean score =5.2 Treshold =0.4 kl 16:00
+weights_512_23apr_1725.hdf5 mean score =0.5232033869405981 Treshold =0.4 kl 18:32
+weights_512_23apr_1725.hdf5 mean score =0.654917‬ Treshold =opt 24.apr 23:44
